@@ -1,6 +1,7 @@
 ![PySwarms Logo](https://i.imgur.com/eX8oqPQ.png)
 ---
 This is a fork version as I edited some functions to fit my program.  
+Original Version works not well on landscape with out much gradient like protein sequence space, and dimension only support vector, what if we could add covariance and multi-dimension(like(5,5)) to discover more sequence space? So I made some adaptation, enjoy it if you want to do sequence optimization.   
 
 [![PyPI version](https://badge.fury.io/py/pyswarms.svg)](https://badge.fury.io/py/pyswarms)
 [![Build Status](https://dev.azure.com/ljvmiranda/ljvmiranda/_apis/build/status/ljvmiranda921.pyswarms?branchName=master)](https://dev.azure.com/ljvmiranda/ljvmiranda/_build/latest?definitionId=1&branchName=master)
