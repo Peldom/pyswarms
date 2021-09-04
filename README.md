@@ -1,6 +1,6 @@
 ![PySwarms Logo](https://i.imgur.com/eX8oqPQ.png)
 ---
-
+This is a fork version as I edited some functions to fit my program.  
 
 [![PyPI version](https://badge.fury.io/py/pyswarms.svg)](https://badge.fury.io/py/pyswarms)
 [![Build Status](https://dev.azure.com/ljvmiranda/ljvmiranda/_apis/build/status/ljvmiranda921.pyswarms?branchName=master)](https://dev.azure.com/ljvmiranda/ljvmiranda/_build/latest?definitionId=1&branchName=master)
